@@ -10,11 +10,13 @@ body {
   }
 
 #content {
-
+    margin-top: 1%;
+    border-radius: 4px;
 }
 
 .generated-content {
-
+    margin-top: 1%;
+    border-radius: 4px;
 }
 
 #generate {
@@ -43,8 +45,10 @@ div p {
 .img1 {
     float: right; 
     height: 370px; 
-    width: 49.5%; 
+    width: 50%; 
     position: absolute;
+    padding: 2%;
+    margin: 5%;
 }
 
 .img2{
@@ -53,14 +57,19 @@ div p {
     height: 370px; 
     width: 50%; 
     position: relative;
+    padding: 2%;
+    margin: 5%;
 }
 
 a {
     position: absolute; 
-    bottom: 10px; 
+    bottom: 5px; 
     color: black;
     padding: 5px;
     font-size: 20px;
+    padding: 4px;
+    margin: 1%;
+
     
 }
 
