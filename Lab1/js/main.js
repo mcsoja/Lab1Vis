@@ -45,5 +45,5 @@ document.querySelector("#generate").onclick = function(){
 	let element = document.querySelector("#content");
 	element.appendChild(paragraph);
 
-	this.blur(); // lose focus
+	this.blur(); // lose focus  
 }
